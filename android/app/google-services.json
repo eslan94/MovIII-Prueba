@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457386901748",
+    "project_id": "app-pokemon-a1ab6",
+    "storage_bucket": "app-pokemon-a1ab6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457386901748:android:4ea8319404ce5f490f5ea1",
+        "android_client_info": {
+          "package_name": "com.example.eval2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457386901748-n0q55lhfne0id4odcm6q72so578nhl1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXe25bJrEo8_vhlOmi-wXt1FxJv-PLJXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457386901748-n0q55lhfne0id4odcm6q72so578nhl1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
